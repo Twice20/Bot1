@@ -14,7 +14,7 @@ from aiogram.types import (
 )
 
 # ================== НАСТРОЙКИ ==================
-BOT_TOKEN = "ВСТАВЬ_ТОКЕН_ОТ_BOTFATHER"
+BOT_TOKEN = "8892585431:AAGZiuIGIJ0sOlicHMDcAM4yVkrvUhTNET4"
 
 ADMIN_IDS = [8171375787, 7164817125, 618731193]
 
